@@ -1,4 +1,4 @@
-[githubCover](https://github.com/user-attachments/assets/27d94dff-779d-4028-8863-dc674eaf4f41)
+<img src="https://github.com/user-attachments/assets/27d94dff-779d-4028-8863-dc674eaf4f41"/>
 
 <!--
 **defnotkevz/defnotkevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
